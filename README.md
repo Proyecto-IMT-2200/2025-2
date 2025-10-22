@@ -13,8 +13,10 @@ Aquí se incluyen los códigos, análisis y documentación asociados al trabajo 
 - Esteban Ignacio Cortes — [@esteban78009](https://github.com/esteban78009)  
 
 ---
-#### Datos
+## 💾 Datos
 para abrir y poder ejecutar el jupyter se requieren de datos, los cuales se pueden encontrar publicos en la pagina del demre [] o descargar directamente en el siguiente link [https://uccl0-my.sharepoint.com/:f:/g/personal/sebastin_mena_estudiante_uc_cl/EhgUUbAemNVLubCEjJvLvMkBOtbi40OF61aDvJpW7fV5DA?e=ymSFkT] (se recomienda la ultima opcion puesto que es instalar y poner en la carpeta , ademas de para no saturar los servidores del demre)
+
+
 ## 📂 Contenido del repositorio
 ```
 2025-2/
@@ -27,6 +29,7 @@ para abrir y poder ejecutar el jupyter se requieren de datos, los cuales se pued
 |_ GRUPO_28_PROYEECTO_IMT2200.PDf 
 |_ README.md
 ```
+
 ## ⚙️ Librerias utilizadas
 ```
 matplotlib.pyplot 
