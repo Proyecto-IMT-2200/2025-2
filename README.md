@@ -15,7 +15,7 @@ Aquí se incluyen los códigos, análisis y documentación asociados al trabajo 
 ---
 #### Datos
 para abrir y poder ejecutar el jupyter se requieren de datos, los cuales se pueden encontrar publicos en la pagina del demre [] o descargar directamente en el siguiente link [https://uccl0-my.sharepoint.com/:f:/g/personal/sebastin_mena_estudiante_uc_cl/EhgUUbAemNVLubCEjJvLvMkBOtbi40OF61aDvJpW7fV5DA?e=ymSFkT] (se recomienda la ultima opcion puesto que es instalar y poner en la carpeta)
-
+\`\`\`
 ## 📂 Contenido del repositorio
 2025-2/
 |_ datos/
@@ -26,7 +26,13 @@ para abrir y poder ejecutar el jupyter se requieren de datos, los cuales se pued
 |_ Borrador_Proyecto.ipynb
 |_ GRUPO_28_PROYEECTO_IMT2200.PDf
 |_ README.md
-
+\`\`\`
 ## ⚙️ Librerias utilizadas
-
+matplotlib.pyplot 
+seaborn 
+pandas 
+numpy
+os
+pathlib
+copy --> deepcopy 
 
