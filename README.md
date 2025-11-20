@@ -5,7 +5,7 @@ Aquí se incluyen los códigos, análisis y documentación asociados al trabajo 
 
 ---
 
-## 👥 Integrantes
+## 👥 Integrantesa
 
 - Sebastián Ignacio Mena — [@Sebastmenas](https://github.com/Sebastmenas)  
 - Matías Pérez Unda — [@sone6e](https://github.com/sone6e)  
@@ -39,7 +39,8 @@ numpy
 os
 pathlib
 copy --> deepcopy -
-sklearn 
+sklearn
+pickle
 ```
 
 ## Motivaciones e ideas
