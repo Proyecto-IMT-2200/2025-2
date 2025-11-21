@@ -1,7 +1,7 @@
 # 📊 Proyecto de Ciencias de Datos
 
 Este repositorio contiene el desarrollo de un proyecto académico para la asignatura de **Ciencias de Datos**.  
-Aquí se incluyen los códigos, análisis y documentación asociados al trabajo en equipo.
+Aquí se incluyen los códigos, análisis y documentación asociados al trabajo en equipo , el trabajo como tal se encuentra dentro de la carpeta notebooks, llamandose presentacion.ipynb.
 
 ---
 
@@ -9,7 +9,6 @@ Aquí se incluyen los códigos, análisis y documentación asociados al trabajo 
 
 - Sebastián Ignacio Mena — [@Sebastmenas](https://github.com/Sebastmenas)  
 - Matías Pérez Unda — [@sone6e](https://github.com/sone6e)  
-- Gonzalo Concha Navarro — [@Daxher](https://github.com/Daxher)  
 - Esteban Ignacio Cortes — [@esteban78009](https://github.com/esteban78009)  
 
 ---
@@ -18,7 +17,11 @@ para abrir y poder ejecutar el jupyter se requieren de datos, los cuales se pued
 
 ## Ejecucion del repositorio 💻
 
-Para ejecutar el repositorio se debe de tomar los datos presentados en la seccion datos y dejarlo en la forma que se presenta en la seccion {Contenido del repositorio}, posterior a eso se puede ejecutar el jupyter
+Para ejecutar el repositorio se debe de tomar los datos presentados en la seccion datos y dejarlo en la forma que se presenta en la seccion {Contenido del repositorio}, posterior a eso se puede ejecutar los jupyter, que se requieren en un cierto orden, y se recomienda este mismo orden
+
+respecto a la ejecucion de nuestro codigo, se requieren de las librerias dadas en requirements.txt ademas del uso de python3.13 , posterior a esto se deben de ejecutar, primero, la lectura de archivos, para tener los datos, de forma correcta en pkl-data y csv_respaldo (carpetas que deben ser creadas por el usuario) posterior a esto, se pueden ejecutar el resto de preguntas, y el archivo presentacion que contiene todo nuestro analisis, el archivo presentacion depende de datos de todo el resto de archivos, es por eso que es imperativo la ejecucion del resto de notebooks para su posterior ejecucion.
+
+respecto a la carpeta prototipos, al ser prototipos y no la entrega final se muestra como una muestra de la travesia que a sido el proyecto y no esperamos una revision de la misma, mas alla de una vision por un tema de curiosidad por como se desarollo nuestro trabajo.
 
 ## 📂 Contenido del repositorio
 ```
