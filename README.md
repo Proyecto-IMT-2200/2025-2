@@ -23,10 +23,24 @@ Para ejecutar el repositorio se debe de tomar los datos presentados en la seccio
 ## 📂 Contenido del repositorio
 ```
 2025-2/
-|_ raw_data/
+|_ NoteBooks/
+|  |--Graficos-Imagenes/
+|  |--|[en graficos-imagenes se contienen los datos usados para la presentacion]
+|  |--pkl-data/ [datos peakle]
+|  |--raw_data/ datos_crudos
+|  |--pregunta1.ipynb
+|  |--pregunta2.ipynb
+|  |--pregunta3.ipynb
+|  |--pregunta4.ipynb
+|  |--pregunta5.ipynb
+|  |--Modelo_Predictivo_NEM _ff.ipynb
+|  |--Lectura_Archivos.ipynb
+|  |--presentacion.ipynb
 |_ .gitignore
-|_ Borrador_Proyecto.ipynb
-|_ GRUPO_28_PROYEECTO_IMT2200.PDf 
+|_ Prototipos/
+|__Borrador_Proyecto.ipynb
+|__Borrador_trabajo_final_seba.ipynb
+|_ requirements.txt
 |_ README.md
 ```
 
