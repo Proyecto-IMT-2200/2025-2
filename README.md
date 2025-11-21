@@ -78,3 +78,14 @@ La respuesta a las preguntas dadas se hizo mediante un analisis de datos basados
 ### ¿Se respondieron las preguntas y se cumplió el Objetivo dado?
 
 Sí, se logró responder a las preguntas presentadas en el PDF que era el guía de nuestro proyecto. Además, consideramos cumplido el objetivo de hacer un análisis de datos buscando saber cómo está el area del acceso a la educación superior, sabiendo de dónde provienen nuestros futuros profesionales y cómo ha cambiado el entorno de la educacion/acceso a la universidad a lo largo de los años.
+
+### Organizacion
+
+La manera de organizarnos fue
+
+pregunta 1/2 => hecha por sebastian mena
+pregunta 4 => Esteban cortes
+pregunta 3 => Matías Pérez
+pregunta 5 => hecha en conjunto
+
+el resto fue hecho en colaboracion entre todos.
