@@ -38,7 +38,7 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta1.png?raw=true" alt="Texto alternativo" width="100%">
     </td>
     <td width="50%">
-      <h3>Título del texto</h3>
+      <h3>¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?</h3>
       <p>Aqui en el grafico presentado podemos ver la cantidad de gente que a rendido esta prueba, esto a lo largo de los años, permitiendo indentificar la tendencia a la alta a lo largo de los años , siendo el punto mas alto el año 2024 (admision 2025) con mas de 300.000 personas llendo al examen</p>
       <ul>
         <li>Importante, entre el 2010 a 2014 se puede notar un claro descenso en la curva ascendente de años pasados, nuestra hipotesis como grupo es que esto fue a razon del terremoto del 2010</li>
@@ -48,3 +48,4 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
     </td>
   </tr>
 </table>
+   
