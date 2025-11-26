@@ -5,7 +5,46 @@
 ### Importante, todos los datos a analizar se recolectaron en https://portal-transparencia.demre.cl/portal-base-datos , para mayor informacion ver nuestro jupyter notebook [https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/Lectura_Archivos.ipynb]
 
 ### Integrantes del grupo:
+´´´
 Esteban Cortes
 Sebastian Mena
 Matias Gonza
+´´´
 
+# UN POCO DE CONTEXTO
+
+A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso a la educacion superior, las cuales han ido cambiado en contenidos y metodologia de medicion a lo largo de los años, en este contexto nosotros buscamos hacer un analisis de los datos presentados enfocados en las siguientes preguntas y ver como se relacionan/que cambios se pueden ver reflejados a traves de la respuestas de estas preguntas a lo largo del tiempo:
+
+´´´
+- 1°¿Cuantas personas se incribieron en cada periodo de admision entre 2004 a 2025?
+
+- 2°¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
+
+- 3°Segun el gruposocioeconomico , ¿cual fue el porcentaje de ingresos a la educacion superior?
+
+- 4°¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
+
+- 5°¿Que relacion existe entre la situacion de egreso de los estudiantes y los resultados de admision a la educacion superior?
+´´´
+
+### Entonces , sin mas dilacion
+
+## Pregunta 1
+- ¿Cuantas personas se incribieron en cada periodo de admision entre 2004 a 2025?
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta1.png?raw=true" alt="Texto alternativo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Título del texto</h3>
+      <p>Aqui en el grafico presentado podemos ver la cantidad de gente que a rendido esta prueba, esto a lo largo de los años, permitiendo indentificar la tendencia a la alta a lo largo de los años , siendo el punto mas alto el año 2024 (admision 2025) con mas de 300.000 personas llendo al examen</p>
+      <ul>
+        <li>Importante, entre el 2010 a 2014 se puede notar un claro descenso en la curva ascendente de años pasados, nuestra hipotesis como grupo es que esto fue a razon del terremoto del 2010</li>
+        <li>Respecto al descenso de los años 2020 a 2021, estos mismos fueron surgidos debido a la pandemia de COVID-19 , no profundizaremos en como esta pandemia a afectado este proceso ni a su educacion, aunque en el grafico se ve una recuperacion de la misma</li>
+        </ul> Conclusion final, se puede ver una clara tendencia al alza en la cantidad de personas que rinden la prueba de acceso a la educacion superior a lo largo de los años</td>
+      </ul>
+    </td>
+  </tr>
+</table>
