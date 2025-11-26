@@ -43,7 +43,7 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
       <ul>
         <li>Importante, entre el 2010 a 2014 se puede notar un claro descenso en la curva ascendente de años pasados, nuestra hipotesis como grupo es que esto fue a razon del terremoto del 2010</li>
         <li>Respecto al descenso de los años 2020 a 2021, estos mismos fueron surgidos debido a la pandemia de COVID-19 , no profundizaremos en como esta pandemia a afectado este proceso ni a su educacion, aunque en el grafico se ve una recuperacion de la misma</li>
-        </ul> Conclusion final, se puede ver una clara tendencia al alza en la cantidad de personas que rinden la prueba de acceso a la educacion superior a lo largo de los años</td>
+        Conclusion final, se puede ver una clara tendencia al alza en la cantidad de personas que rinden la prueba de acceso a la educacion superior a lo largo de los años
       </ul>
     </td>
   </tr>
