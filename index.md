@@ -48,4 +48,41 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
     </td>
   </tr>
 </table>
-   
+
+
+## Pregunta 2
+- ¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
+
+La respuesta es, depende, depende de los años y el periodo en el cual estemos para con nuestra historia, por ejemplo
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2psu.png?raw=true" alt="Imagen 1" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Resultados PSU<0/h3>
+      <p>En el grafico presentado se puede notar una tendencia alsista hasta la decada del 2010, este es un ejemplo perfecto de la respuesta del "depende", al haber una crisis esos años en nuestro pais, menos gente tuvo el tiempo y o recursos para su educacion, por esto mismo y en años superiores se vio una bajada en la gente rindiendo esta prueba </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>Resultados PTU</h3>
+      <p>podemos notar un grafico muy alzista, este mismo , al ser poco año, se notan "mas grandes" en relacion a los datos brutos, sin embargo permite el notar el auemnto hacia el deseo de estudiar por el estudiantado , en el momento post pandemia (2021, 2022)</p>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2ptu.png?raw=true" alt="Imagen 2" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2paes.png?raw=true" alt="Imagen 3" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Resultados PAES</h3>
+      <p>Podemos notar que, al igual que el grafico antes psu , peca de no poseer una alta cantidad de datos, la diferencia relativa mas grande es una tendencia mas alta, mostrando una leve "caida" en su tendencia en los años posteriores al 2024</p>
+    </td>
+  </tr>
+</table>
