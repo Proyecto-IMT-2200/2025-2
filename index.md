@@ -108,3 +108,18 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     </td>
   </tr>
 </table>
+
+## Pregunta 5
+- ¿Que relacion existe entre la situacion de egreso de los estudiantes y los resultados de admision a la educacion superior?
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta5.png?raw=true" alt="Texto alternativo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>¿cual es la relacion existente entre la situacion de egreso de los estudiantes y los resultados de la admision a la educacion superior?</h3>
+      <p>La relacion entre la situacion de egreso y los resultados de admision nos muestran que los recien egresados(primera prueba) suele tener mejores resultados tanto en tasas de matriculacion como en sus puntajes, tambien existen una tendencia descendiente entre ambos indicadores a medida que aumentan los años , esto nos da a entende que quienes llevan mas tiempo afuera del sistema escolar, suelen tener un impacto negativo en su oportunidad de acceder a la educacion superior</p> 
+    </td>
+  </tr>
+</table>
