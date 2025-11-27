@@ -205,7 +205,7 @@ MAE: 96.0576</li>
 
 
 <div align="center">
-    <h3>TITULO DEL GRAFICO</h3>
+    <h3></h3>
     <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/estadisticas_residuos.png?raw=true" alt="Descripcion" width="80%">
     <p style="font-style: italic; color: #666; font-size: 0.9em;">
         Por medio de nuestro modelo obtuvimos diversos analisis predictivos.
