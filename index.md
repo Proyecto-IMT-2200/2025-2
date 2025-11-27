@@ -50,8 +50,6 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
 </table>
 
 
----
-
 ## Pregunta 2
 - ¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
 
@@ -67,6 +65,7 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
       <p>En el grafico presentado se puede notar una tendencia alsista hasta la decada del 2010, este es un ejemplo perfecto de la respuesta del "depende", al haber una crisis esos años en nuestro pais, menos gente tuvo el tiempo y o recursos para su educacion, por esto mismo y en años superiores se vio una bajada en la gente rindiendo esta prueba </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Resultados PTU</h3>
@@ -76,6 +75,7 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2ptu.png?raw=true" alt="Imagen 2" width="100%">
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2paes.png?raw=true" alt="Imagen 3" width="100%">
@@ -87,14 +87,14 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
   </tr>
 </table>
 
----
+<br>
 
 ## Pregunta 3
 - Segun el gruposocioeconomico , ¿cual fue el porcentaje de ingresos a la educacion superior?
 
-**# HACER MATI**
+# HACER MATI
 
----
+<br>
 
 ## Pregunta 4
 - ¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
@@ -111,7 +111,7 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
   </tr>
 </table>
 
----
+<br>
 
 ## Pregunta 5
 - ¿Que relacion existe entre la situacion de egreso de los estudiantes y los resultados de admision a la educacion superior?
