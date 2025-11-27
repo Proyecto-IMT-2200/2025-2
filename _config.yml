@@ -1,0 +1,5 @@
+title: Proyecto De analisis resultados prueba de acceso a la educacion superior
+description: analisis del grupo 28 del ramo IMT-2200 buscando hacer un analisis infroamtivo de los resultados paes
+theme: jekyll-theme-cayman 
+plugins:
+  - jekyll-seo-tag

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Inicio
+---
 
 # Análisis de las pruebas de acceso a la educación superior
 
