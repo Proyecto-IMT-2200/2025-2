@@ -305,5 +305,11 @@ Tambien, nos enfocamos de manera extrema solamente en el acceso a la educacion s
 Respecto a nuestro modelo, si bien el modelo ses predictivo y presenta lo que buscabamos, es importante aclarar que no es perfecto, puede tener errores y la tendencia que marca no es absoluta ni debe tomarse como verdad absoluta.
 
 
+## Conclusiones
+
+Como conclusiones generales, consideramos el analisis bien hecho y que cumple su funcion de informar, demuestra los resultados y el como a ido variando la educacion en nuestro pais
+
+respecto al tema de los diversos cambios en la educacion, consideramos que todos los cambios transitorios han sido positivos, sin embargo las mayores mejoras/revoluciones son con cambios sociales como la revolucion pinguino
+
 
 ###### Uso de IA para el desarollo de esta pagina web https://gemini.google.com/share/215f10f2ceb9
