@@ -313,6 +313,10 @@ Como conclusiones generales, consideramos el analisis bien hecho y que cumple su
 respecto al tema de los diversos cambios en la educacion, consideramos que todos los cambios transitorios han sido positivos, sin embargo las mayores mejoras/revoluciones son con cambios sociales como la revolucion
 
 </p>
+
+<a href="https://youtu.be/Bmj-Y1gY974?si=gWPZU8i8oeDGVLp6" target="_blank">Video presentativo de nuestro analisis </a>
+
+
 <a href="https://gemini.google.com/share/215f10f2ceb9" target="_blank">Uso de IA para el desarollo de esta pagina web </a>
 
 </body>
