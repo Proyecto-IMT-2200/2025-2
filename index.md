@@ -287,9 +287,6 @@ MAE: 96.0576</li>
   </tr>
 
 </table>
-</table>
-
-
 
 
 ## ¿Que podria haber salido mal?
@@ -309,7 +306,7 @@ Respecto a nuestro modelo, si bien el modelo ses predictivo y presenta lo que bu
 
 Como conclusiones generales, consideramos el analisis bien hecho y que cumple su funcion de informar, demuestra los resultados y el como a ido variando la educacion en nuestro pais
 
-respecto al tema de los diversos cambios en la educacion, consideramos que todos los cambios transitorios han sido positivos, sin embargo las mayores mejoras/revoluciones son con cambios sociales como la revolucion pinguino
+respecto al tema de los diversos cambios en la educacion, consideramos que todos los cambios transitorios han sido positivos, sin embargo las mayores mejoras/revoluciones son con cambios sociales como la revolucion
 
 
 ###### Uso de IA para el desarollo de esta pagina web https://gemini.google.com/share/215f10f2ceb9
