@@ -226,7 +226,7 @@ MAE: 96.0576</li>
 
 <br>
 
-### Resultados predictivos de nuestro modelo
+<h4> Resultados predictivos de nuestro modelo </h4>
 
 <table border="1" width="100%" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
 
