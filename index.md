@@ -97,25 +97,17 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
 
 En esta pregunta analizamos cómo se distribuyen los estudiantes que ingresan a la educación superior según su grupo socioeconómico (GSE), usando información de ingreso familiar disponible en los datos del DEMRE entre 2004 y 2025.
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta3.png?raw=true" alt="Distribución de grupos socioeconómicos por universidad" width="100%">
-    </td>
-    <td width="50%">
-      <h3>Distribución de grupos socioeconómicos por universidad</h3>
-      <p>El gráfico muestra, para cada universidad, el porcentaje de sus estudiantes matriculados que pertenecen a cada grupo socioeconómico (GSE): AB, C, D y E. Para construirlo se promediaron los años 2004–2025, de modo que cada barra ve la composición socioeconómica de cada universidad.</p>
-      <ul>
-        <li>Desde el campo de ingreso familiar se extrajo un tramo numérico entre 1 y 12, que luego se agrupó en cuatro GSE: tramos 1–2 → E (más vulnerables), 3–4 → D, 5–8 → C y 9–12 → AB (ingresos más altos).</li>
-        <li>Para cada universidad se contó cuántos estudiantes pertenecen a cada GSE y se transformó a porcentajes, de manera que la suma por universidad es 100%.</li>
-        <li>Las barras están ordenadas según el porcentaje del grupo AB, de mayor a menor, para facilitar la comparación entre universidades.</li>
-      </ul>
-      <p>En el gráfico se puede observar una fuerte desigualdad: las universidades más selectivas y privadas concentran una mayor proporción de estudiantes en los grupos AB–C, mientras que muchas universidades tienen mayoría de estudiantes en los grupos D–E. Esto se mantiene casi igual durante en el período 2004–2025, lo que nos indica que el acceso universitario sigue estando fuertemente asociado al nivel de ingreso familiar.</p>
-    </td>
-  </tr>
-</table>
+![Distribución de grupos socioeconómicos por universidad](https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta3.png?raw=true)
 
-<br>
+### Distribución de grupos socioeconómicos por universidad
+
+El gráfico muestra, para cada universidad, el porcentaje de sus estudiantes matriculados que pertenecen a cada grupo socioeconómico (GSE): AB, C, D y E. Para construirlo se promediaron los años 2004–2025, de modo que cada barra ve la composición socioeconómica de cada universidad.
+
+* Desde el campo de ingreso familiar se extrajo un tramo numérico entre 1 y 12, que luego se agrupó en cuatro GSE: tramos 1–2 → E (más vulnerables), 3–4 → D, 5–8 → C y 9–12 → AB (ingresos más altos).
+* Para cada universidad se contó cuántos estudiantes pertenecen a cada GSE y se transformó a porcentajes, de manera que la suma por universidad es 100%.
+* Las barras están ordenadas según el porcentaje del grupo AB, de mayor a menor, para facilitar la comparación entre universidades.
+
+En el gráfico se puede observar una fuerte desigualdad: las universidades más selectivas y privadas concentran una mayor proporción de estudiantes en los grupos AB–C, mientras que muchas universidades tienen mayoría de estudiantes en los grupos D–E. Esto se mantiene casi igual durante en el período 2004–2025, lo que nos indica que el acceso universitario sigue estando fuertemente asociado al nivel de ingreso familiar.
 
 ## Pregunta 4
 - ¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
@@ -238,7 +230,7 @@ MAE: 96.0576</li>
 
 <table border="1" width="100%" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
 
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #333333; color: white;">
     <th width="25%">Mate 1</th>
     <th width="25%">Clec</th>
     <th width="25%">Promedio Nem</th>
@@ -297,6 +289,8 @@ MAE: 96.0576</li>
 </table>
 
 <br>
+
+
 
 ## ¿Que podria haber salido mal?
 
