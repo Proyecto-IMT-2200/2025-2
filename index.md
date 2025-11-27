@@ -1,20 +1,4 @@
-<style>
-  body {
-    background-color: #1e1e1e !important; /* Fondo Gris Oscuro VS Code */
-    color: #d4d4d4 !important;            /* Texto Gris Claro */
-    font-family: 'Consolas', 'Courier New', monospace; /* Letra de programador */
-  }
 
-  /* Reglas extra para que Títulos y Enlaces no se vean oscuros */
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffffff !important; /* Títulos en Blanco Puro */
-  }
-  
-  a {
-    color: #3794ff !important; /* Enlaces en Azul Brillante VS Code */
-    text-decoration: none;
-  }
-</style>
 
 # Bienvenidos al Analisis de Las pruebas de acceso a la educacion superior
 
@@ -237,59 +221,58 @@ MAE: 96.0576</li>
     <th width="25%">Mate 1</th>
     <th width="25%">Clec</th>
     <th width="25%">Promedio Nem</th>
-    <th width="25%">Puntaje paes predicho</th> </tr>
-
-  <tr>
-    <td 400 td>
-    <td 400 td>
-    <td 400.0 td>
-    <td 624.70 td>
+    <th width="25%">Puntaje paes predicho</th>
   </tr>
 
   <tr>
-    <td 500 td>
-    <td 500 td>
-    <td 500 td>
-    <td> 649.37 </td>
+    <td>400</td>
+    <td>400</td>
+    <td>400.0</td>
+    <td>624.70</td>
   </tr>
 
   <tr>
-    <td 600 td>
-    <td 600 td>
-    <td 600 td>
-    <td 701.81 td>
+    <td>500</td>
+    <td>500</td>
+    <td>500</td>
+    <td>649.37</td>
   </tr>
 
   <tr>
-    <td 700 td>
-    <td 700 td>
-    <td 700 td>
-    <td 767.27 td>
+    <td>600</td>
+    <td>600</td>
+    <td>600</td>
+    <td>701.81</td>
   </tr>
 
   <tr>
-    <td 800 td>
-    <td 800 td>
-    <td 800 td>
-    <td 831.03 td>
+    <td>700</td>
+    <td>700</td>
+    <td>700</td>
+    <td>767.27</td>
   </tr>
 
   <tr>
-    <td 600 td>
-    <td 700 td>
-    <td 650.0 td>
-    <td 726.66 td>
+    <td>800</td>
+    <td>800</td>
+    <td>800</td>
+    <td>831.03</td>
   </tr>
 
   <tr>
-    <td 700 td>
-    <td 600 td>
-    <td 650.0 td>
-    <td 740.00 td>
+    <td>600</td>
+    <td>700</td>
+    <td>650.0</td>
+    <td>726.66</td>
+  </tr>
+
+  <tr>
+    <td>700</td>
+    <td>600</td>
+    <td>650.0</td>
+    <td>740.00</td>
   </tr>
 
 </table>
-
-
 
 ###### Uso de IA para el desarollo de esta pagina web https://gemini.google.com/share/215f10f2ceb9
