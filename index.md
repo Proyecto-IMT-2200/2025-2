@@ -50,10 +50,12 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
 </table>
 
 
+---
+
 ## Pregunta 2
 - ¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
 
-La respuesta es, depende, depende de los años y el periodo en el cual estemos para con nuestra historia, por ejemplo
+La respuesta es, depende, depende de los años y el periodo en el cual estemos para con nuestra historia, por ejemplo:
 
 <table>
   <tr>
@@ -61,11 +63,10 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2psu.png?raw=true" alt="Imagen 1" width="100%">
     </td>
     <td width="50%">
-      <h3>Resultados PSU<0/h3>
+      <h3>Resultados PSU</h3>
       <p>En el grafico presentado se puede notar una tendencia alsista hasta la decada del 2010, este es un ejemplo perfecto de la respuesta del "depende", al haber una crisis esos años en nuestro pais, menos gente tuvo el tiempo y o recursos para su educacion, por esto mismo y en años superiores se vio una bajada en la gente rindiendo esta prueba </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <h3>Resultados PTU</h3>
@@ -75,7 +76,6 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2ptu.png?raw=true" alt="Imagen 2" width="100%">
     </td>
   </tr>
-
   <tr>
     <td width="50%">
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2paes.png?raw=true" alt="Imagen 3" width="100%">
@@ -87,11 +87,14 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
   </tr>
 </table>
 
+---
+
 ## Pregunta 3
 - Segun el gruposocioeconomico , ¿cual fue el porcentaje de ingresos a la educacion superior?
 
-# HACER MATI
+**# HACER MATI**
 
+---
 
 ## Pregunta 4
 - ¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
@@ -104,10 +107,11 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     <td width="50%">
       <h3>Comunas que representan los mayores porcentajes de ingresos a la educación superior</h3>
       <p>se puede notar del grafico una tendencia a mantenerse el top5 mayores comiunas, siendo estas mismas santiago , maipu, temuco , concepcion y puente alto, como grupo creemos que este resultado es debido a factores tanto poblacionales como de ayudas hacia la educacion que permite a mas gente ir a estudiar/educarse.</p>
-      <ul>
     </td>
   </tr>
 </table>
+
+---
 
 ## Pregunta 5
 - ¿Que relacion existe entre la situacion de egreso de los estudiantes y los resultados de admision a la educacion superior?
