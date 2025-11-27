@@ -143,3 +143,137 @@ Como grupo nos dio una curiosidad respecto a la bajada de inscripciones en los a
     </td>
   </tr>
 </table>
+
+# Modelo predictivo de puntajes PAES
+
+Como grupo creamos un modelo predectivo regresivo que busca el ser una herramienta que predisca los datos del puntaje paes por medio del puntaje nem, esto como herramiuenta que ayude a la ciudadania a saber que puede esperar en su respectiva prueba de acceso a la educacion superior
+
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="vertical-align: top; border: none;">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/regresion_lineal_multiple.png?raw=true" alt="Regresion lineal" width="100%">
+    </td>
+    <td width="50%" style="vertical-align: top; padding-left: 20px; border: none;">
+      <h3>Regresion lineal multiple</h3>
+      <p>Aqui podemos ver los resultados de la dispercion de datos con los resultados del modelo</p>
+      <ul>
+        <li>=== Regresión Polinomial (Grado 2) ===
+Features generados: 5
+R² (train): 0.2697
+R² (test): 0.2724
+MSE: 14060.5262
+RMSE: 118.5771
+MAE: 96.1683</li>
+        <li>=== Regresión Polinomial (Grado 3) ===
+Features generados: 9
+R² (train): 0.2714
+R² (test): 0.2735
+MSE: 14039.8142
+RMSE: 118.4897
+MAE: 96.0576</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" style="vertical-align: top; padding: 10px;">
+      <h4>TITULO 1</h4>
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/regresion_polinomial.png?raw=true" width="100%">
+      <p>Estos son los datos en diversos modelos y entrenamientos </p>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" style="vertical-align: top; padding: 10px;">
+      <h4>TITULO 1</h4>
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/Comparacion_modelos.png?raw=true" width="100%">
+      <p>Comparativa entre los diversos modelos
+      
+      
+      Usando los mismos podemos ver que el mejor modelo es el polinomial de grado 3</p>
+    </td>
+  </tr>
+</table>
+<br>
+
+
+
+<div align="center">
+    <h3>TITULO DEL GRAFICO</h3>
+    <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/estadisticas_residuos.png?raw=true" alt="Descripcion" width="80%">
+    <p style="font-style: italic; color: #666; font-size: 0.9em;">
+        Por medio de nuestro modelo obtuvimos diversos analisis predictivos.
+    </p>
+</div>
+<br>
+
+### Resultados predictivos de nuestro modelo
+
+<table border="1" width="100%" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
+
+  <tr style="background-color: #f0f0f0;">
+    <th width="25%">Mate 1</th>
+    <th width="25%">Clec</th>
+    <th width="25%">Promedio Nem</th>
+    <th width="25%">Puntaje paes predicho</th> </tr>
+
+  <tr>
+    <td 400 td>
+    <td 400 td>
+    <td 400.0 td>
+    <td624.70 td>
+  </tr>
+
+  <tr>
+    <td 500 td>
+    <td 500 td>
+    <td 500 td>
+    <td> 649.37 </td>
+  </tr>
+
+  <tr>
+    <td 600 td>
+    <td 600 td>
+    <td 600 td>
+    <td 701.81 td>
+  </tr>
+
+  <tr>
+    <td 700 td>
+    <td 700 td>
+    <td 700 td>
+    <td 767.27 td>
+  </tr>
+
+  <tr>
+    <td 800 td>
+    <td 800 td>
+    <td 800 td>
+    <td 831.03 td>
+  </tr>
+
+  <tr>
+    <td 600 td>
+    <td 700 td>
+    <td 650.0 td>
+    <td 726.66 td>
+  </tr>
+
+  <tr>
+    <td 700 td>
+    <td 600 td>
+    <td 650.0 td>
+    <td 740.00 td>
+  </tr>
+
+</table>
+
+
+
+###### Uso de IA para el desarollo de esta pagina web https://gemini.google.com/share/215f10f2ceb9
