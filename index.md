@@ -127,3 +127,19 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     </td>
   </tr>
 </table>
+
+## BONUS Pregunta 6
+- ¿Qué grupo socioeconómico resultó más afectado por el terremoto del 2010?
+
+Como grupo nos dio una curiosidad respecto a la bajada de inscripciones en los años posteriores al terremoto del 2010, por lo que decidimos hacer un analisis extra respecto a esto
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/terremoto2010.png?raw=true" alt="Texto alternativo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Grupos socioeconomicos afectados</h3>
+      <p>A partir del grafico se puede notar que dependiendo del grupo socioeconomico de las personas, tubieron un impacto mayor o menor en cuando a como les afecto el terremoto del 2010 , prevaleciendo los grupos con menos redes de apoyo</p> 
+    </td>
+  </tr>
+</table>
