@@ -296,6 +296,8 @@ MAE: 96.0576</li>
 
 </table>
 
+<br>
+
 ## ¿Que podria haber salido mal?
 
 Queremos dedicar una seccion de nuestro analisis a comentar nuestros sesgos personales
