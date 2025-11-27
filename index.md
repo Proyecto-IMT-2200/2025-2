@@ -86,3 +86,25 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     </td>
   </tr>
 </table>
+
+## Pregunta 3
+- Segun el gruposocioeconomico , ¿cual fue el porcentaje de ingresos a la educacion superior?
+
+# HACER MATI
+
+
+## Pregunta 4
+- ¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/tendencia_egresados_pregunta4.png?raw=true" alt="Texto alternativo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Comunas que representan los mayores porcentajes de ingresos a la educación superior</h3>
+      <p>se puede notar del grafico una tendencia a mantenerse el top5 mayores comiunas, siendo estas mismas santiago , maipu, temuco , concepcion y puente alto, como grupo creemos que este resultado es debido a factores tanto poblacionales como de ayudas hacia la educacion que permite a mas gente ir a estudiar/educarse.</p>
+      <ul>
+    </td>
+  </tr>
+</table>
