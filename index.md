@@ -1,23 +1,24 @@
 
 
-# Bienvenidos al Analisis de Las pruebas de acceso a la educacion superior
+# Análisis de las pruebas de acceso a la educación superior
 
-### Como grupó buscamos el analizar y tambien el responder las dudas que hemos tenido a lo largo del proceso y ressultados de la prueba de acceso a la educacion superior chilena , buscamos el examinar la relacion entre la equidas y estos mismos procesos , desde un ambito informativo explicar el como estas diversas pruebas (PSU , PTU , PAES) han ido cambiando el quien accese a la educacion universitaria
+### Como grupo buscamos el analizar y también el responder las dudas que hemos tenido a lo largo del proceso y resultados de la prueba de acceso a la educación superior chilena , buscamos el examinar la relación entre la equidad y estos mismos procesos , desde un ámbito informativo explicar el cómo estas diversas pruebas (PSU , PTU , PAES) han ido cambiando el quien accese a la educación universitaria
 
-### Importante, todos los datos a analizar se recolectaron en https://portal-transparencia.demre.cl/portal-base-datos , para mayor informacion ver nuestro jupyter notebook [https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/Lectura_Archivos.ipynb]
+### Importante, todos los datos a analizar se recolectaron en https://portal-transparencia.demre.cl/portal-base-datos , para mayor información ver nuestro jupyter notebook [https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/Lectura_Archivos.ipynb]
 
 ### Integrantes del grupo:
-´´´
+
+```
 Esteban Cortes
 Sebastian Mena
 Matias Gonza
-´´´
+```
 
 # UN POCO DE CONTEXTO
 
-A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso a la educacion superior, las cuales han ido cambiado en contenidos y metodologia de medicion a lo largo de los años, en este contexto nosotros buscamos hacer un analisis de los datos presentados enfocados en las siguientes preguntas y ver como se relacionan/que cambios se pueden ver reflejados a traves de la respuestas de estas preguntas a lo largo del tiempo:
+A lo largo del tiempo nuestro país a tenido diversas pruebas para con el acceso a la educación superior, las cuales han ido cambiado en contenidos y metodología de medición a lo largo de los años, en este contexto nosotros buscamos hacer un análisis de los datos presentados enfocados en las siguientes preguntas y ver como se relacionan/que cambios se pueden ver reflejados a través de la respuestas de estas preguntas a lo largo del tiempo:
 
-´´´
+```
 - 1°¿Cuantas personas se incribieron en cada periodo de admision entre 2004 a 2025?
 
 - 2°¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
@@ -27,12 +28,10 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
 - 4°¿Que comunas presentaron los mayores porcentajes de ingresos a la educacion superior?
 
 - 5°¿Que relacion existe entre la situacion de egreso de los estudiantes y los resultados de admision a la educacion superior?
-´´´
-
-### Entonces , sin mas dilacion
+```
 
 ## Pregunta 1
-- ¿Cuantas personas se incribieron en cada periodo de admision entre 2004 a 2025?
+- ¿Cuántas personas se inscribieron en cada periodo de admisión entre 2004 a 2025?
 
 <table>
   <tr>
@@ -40,20 +39,19 @@ A lo largo del tiempo nuestro pais a tenido diversas pruebas para con el acceso 
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta1.png?raw=true" alt="Texto alternativo" width="100%">
     </td>
     <td width="50%">
-      <h3>¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?</h3>
-      <p>Aqui en el grafico presentado podemos ver la cantidad de gente que a rendido esta prueba, esto a lo largo de los años, permitiendo indentificar la tendencia a la alta a lo largo de los años , siendo el punto mas alto el año 2024 (admision 2025) con mas de 300.000 personas llendo al examen</p>
+      <h3>¿Hubo un aumento en las inscripciones en los periodos de transición (PSU/PTU/PAES)?</h3>
+      <p>Aquí en el gráfico presentado podemos ver la cantidad de gente que ha rendido esta prueba, esto a lo largo de los años, permitiendo identificar la tendencia al alza a lo largo de los años , siendo el punto más alto el año 2024 (admisión 2025) con más de 300.000 personas yendo al examen</p>
       <ul>
-        <li>Importante, entre el 2010 a 2014 se puede notar un claro descenso en la curva ascendente de años pasados, nuestra hipotesis como grupo es que esto fue a razon del terremoto del 2010</li>
-        <li>Respecto al descenso de los años 2020 a 2021, estos mismos fueron surgidos debido a la pandemia de COVID-19 , no profundizaremos en como esta pandemia a afectado este proceso ni a su educacion, aunque en el grafico se ve una recuperacion de la misma</li>
-        Conclusion final, se puede ver una clara tendencia al alza en la cantidad de personas que rinden la prueba de acceso a la educacion superior a lo largo de los años
+        <li>Importante, entre el 2010 a 2014 se puede notar un claro descenso en la curva ascendente de años pasados, nuestra hipótesis como grupo es que esto fue a razón del terremoto del 2010</li>
+        <li>Respecto al descenso de los años 2020 a 2021, estos mismos fueron surgidos debido a la pandemia de COVID-19 , no profundizaremos en como esta pandemia ha afectado este proceso ni a su educación, aunque en el gráfico se ve una recuperación de la misma</li>
+        Conclusión final, se puede ver una clara tendencia al alza en la cantidad de personas que rinden la prueba de acceso a la educación superior a lo largo de los años
       </ul>
     </td>
   </tr>
 </table>
 
-
 ## Pregunta 2
-- ¿Hubo un aumento en las inscripciones en los periodos de transicion (PSU/PTU/PAES)?
+- ¿Hubo un aumento en las inscripciones en los periodos de transición (PSU/PTU/PAES)?
 
 La respuesta es, depende, depende de los años y el periodo en el cual estemos para con nuestra historia, por ejemplo:
 
@@ -64,14 +62,14 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     </td>
     <td width="50%">
       <h3>Resultados PSU</h3>
-      <p>En el grafico presentado se puede notar una tendencia alsista hasta la decada del 2010, este es un ejemplo perfecto de la respuesta del "depende", al haber una crisis esos años en nuestro pais, menos gente tuvo el tiempo y o recursos para su educacion, por esto mismo y en años superiores se vio una bajada en la gente rindiendo esta prueba </p>
+      <p>En el gráfico presentado se puede notar una tendencia alcista hasta la década del 2010, este es un ejemplo perfecto de la respuesta del "depende", al haber una crisis esos años en nuestro país, menos gente tuvo el tiempo y/o recursos para su educación, por esto mismo y en años superiores se vio una bajada en la gente rindiendo esta prueba </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%">
       <h3>Resultados PTU</h3>
-      <p>podemos notar un grafico muy alzista, este mismo , al ser poco año, se notan "mas grandes" en relacion a los datos brutos, sin embargo permite el notar el auemnto hacia el deseo de estudiar por el estudiantado , en el momento post pandemia (2021, 2022)</p>
+      <p>podemos notar un gráfico muy alcista, este mismo , al ser pocos años, se notan "más grandes" en relación a los datos brutos, sin embargo permite el notar el aumento hacia el deseo de estudiar por el estudiantado , en el momento post pandemia (2021, 2022)</p>
     </td>
     <td width="50%">
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta2ptu.png?raw=true" alt="Imagen 2" width="100%">
@@ -84,7 +82,7 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
     </td>
     <td width="50%">
       <h3>Resultados PAES</h3>
-      <p>Podemos notar que, al igual que el grafico antes psu , peca de no poseer una alta cantidad de datos, la diferencia relativa mas grande es una tendencia mas alta, mostrando una leve "caida" en su tendencia en los años posteriores al 2024</p>
+      <p>Podemos notar que, al igual que el gráfico antes PSU , peca de no poseer una alta cantidad de datos, la diferencia relativa más grande es una tendencia más alta, mostrando una leve "caída" en su tendencia en los años posteriores al 2024</p>
     </td>
   </tr>
 </table>
@@ -92,9 +90,27 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
 <br>
 
 ## Pregunta 3
-- Segun el gruposocioeconomico , ¿cual fue el porcentaje de ingresos a la educacion superior?
+- Según el grupo socioeconómico , ¿cuál fue el porcentaje de ingresos a la educación superior?
 
-# HACER MATI
+En esta pregunta analizamos cómo se distribuyen los estudiantes que ingresan a la educación superior según su grupo socioeconómico (GSE), usando información de ingreso familiar disponible en los datos del DEMRE entre 2004 y 2025.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/pregunta3.png?raw=true" alt="Distribución de grupos socioeconómicos por universidad" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Distribución de grupos socioeconómicos por universidad</h3>
+      <p>El gráfico muestra, para cada universidad, el porcentaje de sus estudiantes matriculados que pertenecen a cada grupo socioeconómico (GSE): AB, C, D y E. Para construirlo se promediaron los años 2004–2025, de modo que cada barra ve la composición socioeconómica de cada universidad.</p>
+      <ul>
+        <li>Desde el campo de ingreso familiar se extrajo un tramo numérico entre 1 y 12, que luego se agrupó en cuatro GSE: tramos 1–2 → E (más vulnerables), 3–4 → D, 5–8 → C y 9–12 → AB (ingresos más altos).</li>
+        <li>Para cada universidad se contó cuántos estudiantes pertenecen a cada GSE y se transformó a porcentajes, de manera que la suma por universidad es 100%.</li>
+        <li>Las barras están ordenadas según el porcentaje del grupo AB, de mayor a menor, para facilitar la comparación entre universidades.</li>
+      </ul>
+      <p>En el gráfico se puede observar una fuerte desigualdad: las universidades más selectivas y privadas concentran una mayor proporción de estudiantes en los grupos AB–C, mientras que muchas universidades tienen mayoría de estudiantes en los grupos D–E. Esto se mantiene casi igual durante en el período 2004–2025, lo que nos indica que el acceso universitario sigue estando fuertemente asociado al nivel de ingreso familiar.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -134,6 +150,7 @@ La respuesta es, depende, depende de los años y el periodo en el cual estemos p
 - ¿Qué grupo socioeconómico resultó más afectado por el terremoto del 2010?
 
 Como grupo nos dio una curiosidad respecto a la bajada de inscripciones en los años posteriores al terremoto del 2010, por lo que decidimos hacer un analisis extra respecto a esto
+
 <table>
   <tr>
     <td width="50%">
@@ -141,7 +158,7 @@ Como grupo nos dio una curiosidad respecto a la bajada de inscripciones en los a
     </td>
     <td width="50%">
       <h3>Grupos socioeconomicos afectados</h3>
-      <p>A partir del grafico se puede notar que dependiendo del grupo socioeconomico de las personas, tubieron un impacto mayor o menor en cuando a como les afecto el terremoto del 2010 , prevaleciendo los grupos con menos redes de apoyo</p> 
+      <p>A partir del grafico se puede notar que dependiendo del grupo socioeconomico de las personas, tuvieron un impacto mayor o menor en cuando a como les afecto el terremoto del 2010 , prevaleciendo los grupos con menos redes de apoyo</p> 
     </td>
   </tr>
 </table>
@@ -177,6 +194,7 @@ MAE: 96.0576</li>
     </td>
   </tr>
 </table>
+
 <br>
 
 <table width="100%">
@@ -187,6 +205,7 @@ MAE: 96.0576</li>
     </td>
   </tr>
 </table>
+
 <br>
 
 <table width="100%">
@@ -196,13 +215,11 @@ MAE: 96.0576</li>
       <p>Comparativa entre los diversos modelos
       
       
-      Usando los mismos podemos ver que el mejor modelo es el polinomial de grado 3</p>
-    </td>
+      Usando los mismos podemos ver que el mejor modelo es el polinomial de grado 3
   </tr>
 </table>
+
 <br>
-
-
 
 <div align="center">
     <h3></h3>
@@ -211,6 +228,7 @@ MAE: 96.0576</li>
         Por medio de nuestro modelo obtuvimos diversos analisis predictivos.
     </p>
 </div>
+
 <br>
 
 ### Resultados predictivos de nuestro modelo
