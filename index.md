@@ -1,6 +1,18 @@
 <style>
   body {
-    background-color: #b6b1af !important;
+    background-color: #1e1e1e !important; /* Fondo Gris Oscuro VS Code */
+    color: #d4d4d4 !important;            /* Texto Gris Claro */
+    font-family: 'Consolas', 'Courier New', monospace; /* Letra de programador */
+  }
+
+  /* Reglas extra para que Títulos y Enlaces no se vean oscuros */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important; /* Títulos en Blanco Puro */
+  }
+  
+  a {
+    color: #3794ff !important; /* Enlaces en Azul Brillante VS Code */
+    text-decoration: none;
   }
 </style>
 
