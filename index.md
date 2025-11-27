@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: #b6b1af !important;
+  }
+</style>
+
 # Bienvenidos al Analisis de Las pruebas de acceso a la educacion superior
 
 ### Como grupó buscamos el analizar y tambien el responder las dudas que hemos tenido a lo largo del proceso y ressultados de la prueba de acceso a la educacion superior chilena , buscamos el examinar la relacion entre la equidas y estos mismos procesos , desde un ambito informativo explicar el como estas diversas pruebas (PSU , PTU , PAES) han ido cambiando el quien accese a la educacion universitaria
@@ -180,7 +186,6 @@ MAE: 96.0576</li>
 <table width="100%">
   <tr>
     <td width="33%" style="vertical-align: top; padding: 10px;">
-      <h4>TITULO 1</h4>
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/regresion_polinomial.png?raw=true" width="100%">
       <p>Estos son los datos en diversos modelos y entrenamientos </p>
     </td>
@@ -191,7 +196,6 @@ MAE: 96.0576</li>
 <table width="100%">
   <tr>
     <td width="33%" style="vertical-align: top; padding: 10px;">
-      <h4>TITULO 1</h4>
       <img src="https://github.com/Proyecto-IMT-2200/2025-2/blob/main/NoteBooks/graficos-imagenes/Comparacion_modelos.png?raw=true" width="100%">
       <p>Comparativa entre los diversos modelos
       
