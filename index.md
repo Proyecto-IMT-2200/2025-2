@@ -287,8 +287,8 @@ MAE: 96.0576</li>
   </tr>
 
 </table>
+</table>
 
-<br>
 
 
 
